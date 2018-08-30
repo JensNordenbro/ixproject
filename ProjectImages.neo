@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?neo version='2.40.10162.0'?>
+<NeoItem d1p1:Serializer="Neo.ApplicationFramework.Common.Serialization.ObjectSerializer" xmlns:d1p1="urn:Neo.ApplicationFramework.Serializer">
+  <Object d1p1:type="Neo.ApplicationFramework.Tools.Symbol.SymbolStorageItem, ToolsCF, Version=2.40.10162.0, Culture=neutral, PublicKeyToken=null" d1p1:Site.Name="ProjectImages" ProjectGuid="a5114953-4980-4be1-9fde-ca92857dfef6" />
+</NeoItem>
